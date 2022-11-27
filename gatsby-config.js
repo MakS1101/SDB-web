@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `TP Construction`,
-    fullTitle: `TANPEL CONSTRUCTION`,
-    description: `Listen better | Plan better | Build better.`,
-    about: `Since our incorporation in 1981, we've grown from a regional organization to a multi-faceted, national presence in the industry with headquarters in New York.`,
+    title: `SDB Construction`,
+    fullTitle: `SDB Construction`,
+    description: `Transforming your ideas into reality`,
+    about: `Since our incorporation in 2017, we've always strived to ensure our clients are satisfied with the job we have accomplished.`,
     email: `info@tanpelconstruction.com`,
     social: {
       facebook: `https://facebook.com/tanpelconstruction`,
